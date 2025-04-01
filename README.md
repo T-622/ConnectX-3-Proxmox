@@ -5,3 +5,6 @@ I had quite the time trying to get my ConnectX-3 40GbE / 56GbIB cards working un
 
 Note: This guide is based off Proxmox 8.3 but past versions **should** work as well as future versions.
 
+## Disclaimer
+I am not responsible for any damage occuring to cards when flashing, **ENSURE YOU HAVE CORRECT FIRMWARE VERSIONS DOWNLOADED**
+
